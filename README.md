@@ -5,6 +5,8 @@
 I'm Mitra, a front-end developer comfortable in stacks including:
 React, React Native, JavaScript, TypeScript, GraphQL, and more.
 
+Hope to add more interesting projects here soon. 
+
 ## 🖥️ Skills
 
 - Web & Cross-platform development
