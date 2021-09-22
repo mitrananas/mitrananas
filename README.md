@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mitrabauer)
+
+### Hi there 👋
 
 I'm Mitra, a front-end developer comfortable in stacks including:
 React, React Native, JavaScript, TypeScript, GraphQL, and more.
