@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I'm Mitra, a front-end developer comfortable in stacks including:
-React, React Native, JavaScript, TypeScript, GraphQL, and more.
+React, React Native, JavaScript, TypeScript, GraphQL, Next and more.
 
 Hope to add more interesting projects here soon. 
 
@@ -12,12 +12,11 @@ Hope to add more interesting projects here soon.
 - Web & Cross-platform development
 - Agile methodologies
 - Responsive design
+- Accessibility
 
 ### 🌐 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrananas&layout=compact)](https://github.com/mitrananas/github-readme-stats)
-
-- 😄 Pronouns: she/her
 
 <!--
 **mitrananas/mitrananas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
