@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Mitra, a front-end developer comfortable in stacks including:
+I'm Mitra, a developer comfortable in stacks including:
 React, React Native, JavaScript, TypeScript, GraphQL, Next and more.
 
 Hope to add more interesting projects here soon. 
