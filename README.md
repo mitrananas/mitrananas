@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I'm Mitra, a developer comfortable in stacks including:
-React, React Native, JavaScript, TypeScript, GraphQL, Next and more.
+React, React Native, JavaScript, TypeScript, GraphQL, Node, Next and more.
 
 Hope to add more interesting projects here soon. 
 
